@@ -1,0 +1,16 @@
+{
+"companyName": "hyf",
+"productName": "VideoCollection",
+"productVersion": "0.1",
+"dataUrl": "VideosCollectionWeb.data.unityweb",
+"wasmCodeUrl": "VideosCollectionWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "VideosCollectionWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
